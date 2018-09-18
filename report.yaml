@@ -1,0 +1,30 @@
+company:
+  name: Team 094
+  logo: pics/temp_logo.png
+product_hmw: How we might enable internet users to better manage their digital content?
+product_narrative: |
+	TODO
+team:
+  picture: pics/temp_logo.png
+  roster:
+  - name: Conor Cunningham
+    email: cc2697@cornell.edu
+    picture: pics/cunningham_prof.jpg
+    program: CS
+  - name: Sungseo Park
+    email: sp2528@cornell.edu
+    picture: pics/temp_logo.png
+    program: CS
+  - name: Stanton Burke
+    email: spb232@cornell.edu
+    picture: pics/temp_logo.png
+    program: LLM
+  - name: Rahul Naryani
+    email: rsn53@cornell.edu
+    picture: pics/temp_logo.png
+    program: MBA
+assets:
+- title: Deliverable 1
+  url: https://drive.google.com/drive/folders/1O2vywR0iy1P2g67XxK7nvpqa2kolSFyz?usp=sharing
+- title: Deliverable 2
+  url: https://drive.google.com/drive/folders/1l6NbjZUR01iyWohEvkrnlXc6nBdTHKdk?usp=sharing
