@@ -26,23 +26,23 @@ team:
     program: MBA
 assets:
 - title: Contract
-  url: https://drive.google.com/open?id=1V_tIU_i0FqbdC2-IGuUpYBG-kj6XL9Y3
+  url: https://docs.google.com/document/d/1AjnewfD5r241Ab0qsGRsa53XFxRHb2DfVCknDF5p7mw/edit?usp=sharing
 - title: Deliverable 1
   url: https://drive.google.com/drive/folders/1O2vywR0iy1P2g67XxK7nvpqa2kolSFyz?usp=sharing
 - title: Deliverable 2
   url: https://drive.google.com/drive/folders/1l6NbjZUR01iyWohEvkrnlXc6nBdTHKdk?usp=sharing
 - title: Deliverable 3
-  url: https://drive.google.com/open?id=1g4oVUGTJ6VzYqOHZnNb5sNSjVGT3mtL1
+  url: https://drive.google.com/drive/folders/1imVayyUnaj2NfkMSD40BzghHdY1ciuQu?usp=sharing
 - title: Deliverable 4
   url: https://drive.google.com/drive/folders/1u6o9-TfG14sXFLfddcqUE66kaU80-RQF?usp=sharing
-- title: Threat Analysis
-  url: https://drive.google.com/open?id=1Hc9_0c-39LxbD0_roI--XcIBNXlyo_j9
 - title: Deliverable 5
-  url: https://drive.google.com/drive/u/1/folders/1g2mmpZNGBmlWtKz3nb6ZrXjr9PncyoXl
+  url: https://drive.google.com/drive/folders/1g2mmpZNGBmlWtKz3nb6ZrXjr9PncyoXl?usp=sharing
 - title: Deliverable 6
-  url: https://docs.google.com/document/d/1nNYUxnAdnX_oDfmo4jIQ1z1ZcIOCpyjAwOAat3G8jUE/edit?usp=sharing
+  url: https://drive.google.com/drive/folders/1ADXvYL0tMb4hoQSQDrF8X1EtJfvpPM8U?usp=sharing
 - title: Deliverable 7
   url: https://docs.google.com/presentation/d/1FKs4XmXVa-7GH96mh6JiefCSNWx8vjKGebXyIS6ezDE/edit?usp=sharing
+- title: Threat Analysis
+  url: https://drive.google.com/file/d/1Hc9_0c-39LxbD0_roI--XcIBNXlyo_j9/view?usp=sharing
 - title: UI Repo
   url: https://github.coecis.cornell.edu/cc2697/wilbur_ui
 - title: API Repo
