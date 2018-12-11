@@ -3,7 +3,7 @@ company:
   logo: pics/verizon_team_logo.png
 product_hmw: How we might enable internet users to better manage their digital content?
 product_narrative: |
-  Personal cloud storage began when users sent documents to themselves over email to make the documents easier to access. Now, the cloud market cap is expected to surpass $500 billion by 2020. With 5G, the enablement of new forms of low-latency edge computing, AI, IoT, and other technologies, the landscape of personal Cloud Content Engagement is about to change dramatically.
+  Wilbur is a search assistant that looks for your documents across formats, platforms and accounts.
 team:
   picture: pics/verizon-team-photo.jpeg
   roster:
