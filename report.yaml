@@ -3,7 +3,9 @@ company:
   logo: pics/verizon_team_logo.png
 product_hmw: How we might enable internet users to better manage their digital content?
 product_narrative: |
-  Wilbur is a search assistant that looks for your documents across formats, platforms and accounts.
+  Wilbur is a search assistant that looks for your documents across formats, platforms and accounts. In a multi-cloud, 
+  multi-account world, users need one unified search tool that is easy to use and quickly accessible.
+
 team:
   picture: pics/verizon-team-photo.jpeg
   roster:
